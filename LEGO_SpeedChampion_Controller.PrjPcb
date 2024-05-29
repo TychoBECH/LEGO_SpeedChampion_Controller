@@ -308,50 +308,66 @@ DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\Design Rule Check
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.EXTREP
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.G1
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.G2
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GBL
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GBP
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.G1
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GBS
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.G2
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GM
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GM1
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GTL
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GTP
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GM
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GTS
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for LEGO_SpeedChampion_Controller\PCB.REP
 DItemRevisionGUID=
 
@@ -603,6 +619,10 @@ OutputName1=NC Drill Files
 OutputDocumentPath1=
 OutputVariantName1=
 OutputDefault1=0
+Configuration1_Name1=ForceUpdateSettings
+Configuration1_Item1=False
+Configuration1_Name2=OutputConfigurationParameter1
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|GenerateToolsByDrillSymbols=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressTrailingZeroes|DocumentPath=C:\Users\s1uty\GitHub\LEGO_SpeedChampion_Controller\PCB.PcbDoc
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -667,7 +687,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=APOHKHGH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=PCB.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=PCB.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=PCB.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=PCB.GBO|UserLayerName.Caption1=PCB.GTP|UserLayerName.Caption10=PCB.GBS|UserLayerName.Caption11=PCB.G2|UserLayerName.Caption12=PCB.GM1|UserLayerName.Caption13=PCB.GBL|UserLayerName.Caption14=PCB.GM15|UserLayerName.Caption15=PCB.GTL|UserLayerName.Caption16=PCB.GBP|UserLayerName.Caption2=PCB.GTO|UserLayerName.Caption3=PCB.GTS|UserLayerName.Caption4=PCB.GM13|UserLayerName.Caption5=PCB.GKO|UserLayerName.Caption6=PCB.GPT|UserLayerName.Caption7=PCB.GPB|UserLayerName.Caption8=PCB.G1|UserLayerName.Caption9=PCB.GM7|UserLayerName.Count=17|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16973835|UserLayerName.Layer11=16777219|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908303|UserLayerName.Layer15=16777217|UserLayerName.Layer16=16973833|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973837|UserLayerName.Layer6=16973848|UserLayerName.Layer7=16973849|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16908295|DocumentPath=\\192.168.0.108\Tycho\Projekte\38. LEGO_LED\Motorized LEGO Koenigsegg Jesko\ECAD Design\Altium Project\LEGO_SpeedChampion_Controller\PCB.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|BoardID=APOHKHGH|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=500000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=False|GenerateDRCRulesFile=False|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=True|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16777217~1,16777218~1,16777219~1,16842751~1,16973834~1,16973835~1,16973832~1,16973833~1,16908289~1|PlotBoardProfile=True|PlotBoardProfileFileName=PCB.GM|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|UncheckPlotDrillDrawingLayerPair0_Backdrill=False|UncheckPlotDrillDrawingLayerPair0_Checked=False|UncheckPlotDrillDrawingLayerPair0_DrillType=Regular|UncheckPlotDrillDrawingLayerPair0_FileName=PCB.GD1|UncheckPlotDrillDrawingLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillDrawingLayerPair0_LowLayer=Top Layer|UncheckPlotDrillGuideLayerPair0_Backdrill=False|UncheckPlotDrillGuideLayerPair0_Checked=False|UncheckPlotDrillGuideLayerPair0_DrillType=Regular|UncheckPlotDrillGuideLayerPair0_FileName=PCB.GG1|UncheckPlotDrillGuideLayerPair0_HighLayer=Bottom Layer|UncheckPlotDrillGuideLayerPair0_LowLayer=Top Layer|UserLayerName.Caption0=PCB.GBO|UserLayerName.Caption1=PCB.GTP|UserLayerName.Caption10=PCB.GM7|UserLayerName.Caption11=PCB.G2|UserLayerName.Caption12=PCB.GM1|UserLayerName.Caption13=PCB.GBL|UserLayerName.Caption14=PCB.GM15|UserLayerName.Caption15=PCB.GTL|UserLayerName.Caption16=PCB.GKO|UserLayerName.Caption2=PCB.GTO|UserLayerName.Caption3=PCB.GTS|UserLayerName.Caption4=PCB.GM13|UserLayerName.Caption5=PCB.GPT|UserLayerName.Caption6=PCB.GPB|UserLayerName.Caption7=PCB.GBP|UserLayerName.Caption8=PCB.G1|UserLayerName.Caption9=PCB.GBS|UserLayerName.Count=17|UserLayerName.Layer0=16973831|UserLayerName.Layer1=16973832|UserLayerName.Layer10=16908295|UserLayerName.Layer11=16777219|UserLayerName.Layer12=16908289|UserLayerName.Layer13=16842751|UserLayerName.Layer14=16908303|UserLayerName.Layer15=16777217|UserLayerName.Layer16=16973837|UserLayerName.Layer2=16973830|UserLayerName.Layer3=16973834|UserLayerName.Layer4=16908301|UserLayerName.Layer5=16973848|UserLayerName.Layer6=16973849|UserLayerName.Layer7=16973833|UserLayerName.Layer8=16777218|UserLayerName.Layer9=16973835|DocumentPath=C:\Users\s1uty\GitHub\LEGO_SpeedChampion_Controller\PCB.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
